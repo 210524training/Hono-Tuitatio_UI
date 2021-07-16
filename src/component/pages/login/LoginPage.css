@@ -1,0 +1,32 @@
+#center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;  
+}
+
+.d-flex {
+  display: flex!important;
+  height: 100vh;
+}
+
+#center {
+  margin: 0 auto;
+  align-self: center;
+}
+  
+    .form-control {
+      margin-left: 20px;
+  
+    }
+  
+    .mb-3{
+      margin-top: 10px;
+  
+    }
+
+
+    html, body, .my-wrapper {
+      height: 100%;
+    }
+    
